@@ -11,7 +11,7 @@
   "manifestType": "minecraftModpack",
   "manifestVersion": 1,
   "name": "Chekote 1.11.2",
-  "version": "0.67.0",
+  "version": "0.68.0",
   "author": "TheRealChekote",
   "files": [
     {
@@ -81,7 +81,7 @@
     },
     {
       "projectID": 238222,
-      "fileID": 2435919,
+      "fileID": 2440558,
       "required": true
     },
     {
