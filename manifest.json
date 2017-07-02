@@ -3,7 +3,7 @@
     "version": "1.11.2",
     "modLoaders": [
       {
-        "id": "forge-13.20.0.2366",
+        "id": "forge-13.20.1.2388",
         "primary": true
       }
     ]
@@ -11,7 +11,7 @@
   "manifestType": "minecraftModpack",
   "manifestVersion": 1,
   "name": "Chekote 1.11.2",
-  "version": "0.72.0",
+  "version": "0.73.0",
   "author": "TheRealChekote",
   "files": [
     {
